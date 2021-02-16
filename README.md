@@ -13,7 +13,7 @@ P0LI3H
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=p0li3h&count_private=true&show_icons=true?theme=merko)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0li3h?theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0li3h&?theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
