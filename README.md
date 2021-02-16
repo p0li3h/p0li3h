@@ -1,7 +1,7 @@
 P0LI3H
 
 - 💠 Trying to make : Inject FiveM Method
-- 💨 Learning Express, JS
+- 💨 Learning JS(Express)
 
 
 <br />
