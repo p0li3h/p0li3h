@@ -10,7 +10,7 @@ P0LI3H
 ### My Stats !
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=p0li3h&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=p0li3h&count_private=true&show_icons=true?theme=merko)
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0li3h)](https://github.com/anuraghazra/github-readme-stats)
