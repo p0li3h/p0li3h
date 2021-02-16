@@ -20,7 +20,7 @@ P0LI3H
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Lua" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
-<img align="left" alt="C++" width="26px" src="https://applover.pl/wp-content/uploads/2020/03/the-c-programming-language-computer-icons-computer-programming-source-code-programming-1.jpg" />
+<img align="left" alt="C++" width="26px" src="https://w7.pngwing.com/pngs/889/976/png-transparent-the-c-programming-language-computer-programming-programming-miscellaneous-blue-computer.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
