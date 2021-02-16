@@ -1,7 +1,6 @@
 P0LI3H
 
 - 💠 Trying to make : Inject FiveM Method
-### Connect with me:
 
 
 
@@ -13,7 +12,7 @@ P0LI3H
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=p0li3h&count_private=true&show_icons=true?theme=buefy)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterLua)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0li3h)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
