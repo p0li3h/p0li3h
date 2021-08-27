@@ -4,14 +4,14 @@
 (\___ )=='-'
  \ .   ) )
   \ `-' /
-   `~j-'   sokin#6666
+   `~j-'   p0li3h#9676
      "=:
                                                           
 ```
-<h1 align="center">Hi <img src="https://sokin.eu/syf/Hi.gif" width="40px" />, I'm sokin</h1>
+<h1 align="center">Hi <img src="https://sokin.eu/syf/Hi.gif" width="40px" />, I'm p0li3h</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|dev-sokin.xyz|+discord.gg/sokin6" />
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=500&lines=Welcome+|" />
 </p>
 
 
@@ -25,20 +25,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> https://discord.gg/TwahSEZG9M ]
+[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> ]
 <br />
 
-### Spotify Playing 🎧
-<p align="center">
-  <a href="https://andyruwruw.vercel.app/api/now-playing?open">
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
 
 
 ### My Stats !
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=s00kin&count_private=true&show_icons=true?theme=buefy)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=p0li3h&count_private=true&show_icons=true?theme=buefy)
 
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/s00kin/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/p0li3h/count.svg)
 
 <br />
